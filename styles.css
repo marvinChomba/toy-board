@@ -1,0 +1,23 @@
+form {
+    width: 25%;
+}
+form .input {
+    display: inline
+}
+
+ul {
+    border: 1px solid black
+}
+li {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding-top: 15px;
+}
+.btnContainer {
+    margin-right: 0;
+    display: flex;
+    width: 20%;
+    justify-content: space-between
+}
